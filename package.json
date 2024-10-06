@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "canvafy": "^7.1.0",
+    "canvas": "^2.11.2",
+    "deepl-node": "^1.13.0",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "dotenv": "^16.4.5",
+    "sqlite3": "^5.1.7"
+  }
+}
